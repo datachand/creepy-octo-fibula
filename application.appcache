@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# version 0.0.21
+# version 0.0.22
 
 
 NETWORK:
@@ -28,6 +28,7 @@ app.js
 //cdnjs.cloudflare.com/ajax/libs/messenger/1.4.2/css/messenger-theme-flat.min.css
 //cdnjs.cloudflare.com/ajax/libs/messenger/1.4.2/js/messenger.min.js
 //cdnjs.cloudflare.com/ajax/libs/messenger/1.4.2/js/messenger-theme-flat.min.js
+//cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.14.3/ui-bootstrap-tpls.min.js
 cat.png
 images/1.png
 images/2.png
